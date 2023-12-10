@@ -13,6 +13,11 @@
     <br>
 </p>
 
+
+https://railway.app/template/q_Aqc3?referralCode=RlDfoy
+
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/q_Aqc3?referralCode=RlDfoy)
 ----
 
 ## 🇹🇷 Otomatik Kurulum / Automatic Setup 🇺🇲
